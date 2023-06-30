@@ -10,3 +10,7 @@ I am currently taking productive measures into the start of my summer semester b
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Breathe
+- [x] Do github Introduction module
+- [ ] Bake a chocolate cake
